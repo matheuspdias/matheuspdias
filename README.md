@@ -4,10 +4,10 @@
 <!--
 [![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://site/)
 -->
-<a href="mailto:matheus.tecinfor98@gmail.com">
+<a href="mailto:matheus.tecinfor98@gmail.com" target="_blank">
       <img alt="Matheus Pereira" src="https://img.shields.io/badge/-Gmail-5659EB?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:matheus.tecinfor98@gmail.com" />
 </a>
-<a href="https://api.whatsapp.com/send?phone=5511976048255">
+<a href="https://api.whatsapp.com/send?phone=5511976048255" target="_blank">
       <img alt="sql" src="https://img.shields.io/badge/whatsapp-00E676.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
