@@ -41,8 +41,9 @@ Programador fullstack utilizando as principais linguagens do mercado Javascript 
 <a href="#">
       <img alt="React Native" src="https://img.shields.io/badge/react Native-00D2F8.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
+
 <a href="#">
-      <img alt="React Native" src="https://img.shields.io/badge/laravel-ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img alt="Node" src="https://img.shields.io/badge/node-00C853.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
 
 
