@@ -4,12 +4,7 @@
 <!--
 [![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://site/)
 -->
-<img
-	src="https://raw.githubusercontent.com/matheuspdias/matheuspdias/master/gitreadme.png"
-	width="400px"
-	height="390px"
-	align="right"
-/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspdias&layout=compact)
 
 <a href="mailto:matheus.tecinfor98@gmail.com" target="_blank">
       <img alt="Matheus Pereira" src="https://img.shields.io/badge/-Gmail-5659EB?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:matheus.tecinfor98@gmail.com" />
