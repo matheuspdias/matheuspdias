@@ -44,7 +44,7 @@ Programador fullstack utilizando as principais linguagens do mercado Javascript 
 <div align="display: flex; align-items:center; justify-content: space-between;" >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspdias&layout=compact)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
 </div>
 </div>
