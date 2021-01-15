@@ -41,7 +41,7 @@ Programador fullstack utilizando as principais linguagens do mercado Javascript 
 </a>
 
 
-<div align="center" >
+<div align="" >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspdias&layout=compact)
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
