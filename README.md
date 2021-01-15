@@ -41,13 +41,14 @@ Programador fullstack junior em busca de uma oportunidade no mercado de trabalho
       <img alt="Laravel" src="https://img.shields.io/badge/laravel-ff2d20.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
 
+</br>
+</br>
 
 <div align="display: flex; align-items:center; justify-content: space-between;" >
 
 ![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=matheuspdias&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspdias&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
-<div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
-</div>
+
 </div>
 
 </br>
