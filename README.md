@@ -42,7 +42,6 @@ Programador fullstack junior em busca de uma oportunidade no mercado de trabalho
 </a>
 
 </br>
-</br>
 
 <div align="display: flex; align-items:center; justify-content: space-between;" >
 
