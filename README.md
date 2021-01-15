@@ -50,5 +50,3 @@ Programador fullstack junior em busca de uma oportunidade no mercado de trabalho
 
 </div>
 
-</br>
-</br>
