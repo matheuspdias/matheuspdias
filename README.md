@@ -30,9 +30,6 @@ Programador fullstack utilizando as principais linguagens do mercado Javascript 
 
 #### :hammer: Frameworks
 <a href="#">
-      <img alt="React" src="https://img.shields.io/badge/react-36B2C8.svg?style=for-the-badge&logo=react&logoColor=white" />
-</a>
-<a href="#">
       <img alt="React Native" src="https://img.shields.io/badge/react Native-00D2F8.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
 
@@ -40,11 +37,15 @@ Programador fullstack utilizando as principais linguagens do mercado Javascript 
       <img alt="Node" src="https://img.shields.io/badge/node-00C853.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
 
+<a href="#">
+      <img alt="Laravel" src="https://img.shields.io/badge/laravel-ff2d20.svg?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
 
 <div align="display: flex; align-items:center; justify-content: space-between;" >
 
+![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=matheuspdias)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspdias&layout=compact)
-[![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=matheuspdias)]
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
 </div>
 </div>
