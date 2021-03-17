@@ -4,9 +4,7 @@
 <!--
 [![Site Badge](https://img.shields.io/badge/%20-site%20pessoal-blueviolet)](https://site/)
 -->
-
-Programador fullstack junior em busca de uma oportunidade no mercado de trabalho.
- Conhecimentos em algumas das principais linguagens do mercado Javascript e PHP
+Programador Back-end e Mobile utilizando as linguagens Javascript e PHP
 
 <a href="mailto:matheus.tecinfor98@gmail.com" target="_blank">
       <img alt="Matheus Pereira" src="https://img.shields.io/badge/-Gmail-5659EB?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:matheus.tecinfor98@gmail.com" />
