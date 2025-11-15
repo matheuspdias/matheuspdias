@@ -47,15 +47,3 @@ Atualmente focado em:
 🔹 **Arquitetura Limpa com Laravel (laravel-clean-arch)**  
 🔹 **Api Clean Architecture com Node.js/NestJS (nestjs-clean-arch)**  
 🔹 **SaaS Multi-Tenant Example (Managerclin )**    
-
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=matheuspdias&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspdias&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
-
-</div>
