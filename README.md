@@ -47,4 +47,4 @@ Atualmente focado em:
 🔹 **Arquitetura Limpa com Laravel (laravel-clean-arch)**  
 🔹 **Api Clean Architecture com Node.js/NestJS (nestjs-clean-arch)**  
 🔹 **SaaS Multi-Tenant Example (Managerclin )**    
-🔹 **Estrutura de microserviços e mensageria com RabbitMQ(microservices-infra)**  
+🔹 **Estrutura de microserviços e mensageria com RabbitMQ (microservices-infra)**  
