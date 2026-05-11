@@ -1,50 +1,139 @@
-## Olá, eu sou o Matheus 👋  
-Desenvolvedor **Back-End** | PHP (Laravel) & Node.js | Arquitetura Limpa, DDD, SOLID  
+# Olá, eu sou o Matheus 👋
 
-Sou desenvolvedor back-end com experiência sólida na criação de APIs escaláveis, sistemas SaaS e aplicações de alta volumetria de dados. No meu GitHub, você encontrará projetos que demonstram meu uso de **Clean Architecture**, **DDD**, testes, boas práticas e padrões de projeto — tanto em **PHP (Laravel)** quanto em **Node.js / NestJS**.
+Desenvolvedor **Back-End** | PHP (Laravel) & Node.js | Clean Architecture • DDD • SOLID
 
-Atualmente focado em:
-- Arquitetura de software (Clean Architecture, DDD, SOLID)  
-- Desenvolvimento de APIs robustas  
-- Integrações e mensageria  
-- Otimização, escalabilidade e boas práticas  
-- Sistemas multi-tenant e SaaS  
+Sou desenvolvedor back-end com experiência sólida na criação de APIs escaláveis, sistemas SaaS e aplicações de alta volumetria de dados.
+
+No meu GitHub, você encontrará projetos que demonstram meu uso de:
+- Clean Architecture
+- DDD
+- SOLID
+- Testes automatizados
+- Padrões de projeto
+- Boas práticas de engenharia de software
+
+Atuo principalmente com **PHP (Laravel)** e **Node.js / NestJS**.
 
 ---
 
-## 📬 Contato  
-<a href="https://www.linkedin.com/in/matheuspdias98/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:matheus.tecinfor98@gmail.com" target="_blank">
-  <img alt="Email" src="https://img.shields.io/badge/-Gmail-5659EB?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+## 🚀 Atualmente focado em
+
+- Arquitetura de software
+- Desenvolvimento de APIs robustas
+- Microsserviços e mensageria
+- Escalabilidade e performance
+- Sistemas SaaS e multi-tenant
+- Boas práticas e código limpo
+
+---
+
+## 📬 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheuspdias98/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:matheus.tecinfor98@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Gmail"
+    />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-
-<img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-<img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-<img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-<img align="center" alt="Bitbucket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
-
-</div>
+<p align="left">
+  <img 
+    width="700"
+    src="https://skillicons.dev/icons?i=nodejs,ts,js,php,laravel,nestjs,react,redux,docker,mysql,postgres,mongodb,redis,rabbitmq,git,linux"
+  />
+</p>
 
 ---
 
-## 📌 Projetos em Destaque (Arquitetura Limpa & Boas Práticas)
-> *Esses repositórios estão no topo do meu perfil — representam minha forma de estruturar e desenvolver sistemas.*
+## 📌 Projetos em Destaque
 
-🔹 **Arquitetura Limpa com Laravel (laravel-clean-arch)**  
-🔹 **Api Clean Architecture com Node.js/NestJS (nestjs-clean-arch)**  
-🔹 **SaaS Multi-Tenant Example (Managerclin )**    
-🔹 **Estrutura de microserviços e mensageria com RabbitMQ (microservices-infra)**  
+### 🔹 Laravel Clean Architecture
+Projeto focado em:
+- Clean Architecture
+- SOLID
+- Repository Pattern
+- Services
+- DTOs
+- Testes automatizados
+- Estrutura escalável
+
+---
+
+### 🔹 NestJS Clean Architecture
+API robusta utilizando:
+- NestJS
+- DDD
+- JWT/Auth
+- Prisma ORM
+- Arquitetura desacoplada
+- Boas práticas
+
+---
+
+### 🔹 SaaS Multi-Tenant (Managerclin)
+Sistema SaaS com:
+- Multi-tenant
+- Controle de permissões
+- APIs robustas
+- Escalabilidade
+- Arquitetura desacoplada
+
+---
+
+### 🔹 Microservices Infra
+Estrutura de microsserviços utilizando:
+- RabbitMQ
+- Mensageria
+- Docker
+- Comunicação assíncrona
+- Escalabilidade horizontal
+
+---
+
+## 📈 Estatísticas GitHub
+
+<p align="left">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"
+  />
+</p>
+
+---
+
+## 💡 Filosofia de Desenvolvimento
+
+- Código limpo e sustentável
+- Arquitetura escalável
+- Separação clara de responsabilidades
+- Performance e manutenção
+- Desenvolvimento orientado a boas práticas
+- Sistemas preparados para crescimento
+
+---
+
+## 🚀 Objetivo
+
+Construir aplicações robustas, performáticas e escaláveis utilizando arquitetura moderna e engenharia de software de qualidade.
+
+---
+
+⭐ Sempre evoluindo como engenheiro de software.
